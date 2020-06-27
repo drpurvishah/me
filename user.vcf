@@ -1,14 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
+N:Shah;Purvi;;;
 FN: Dr.Purvi  Shah
 ORG:Kids Feet Center;
-TITLE:Physiotherapist\nProducts Team, Data Science Division
+TITLE:Physiotherapist\nNeuro-pediatric rehabilitation and Aqua-therapy treatments, 
 EMAIL;type=INTERNET;type=WORK;type=pref:kidsfeetcenter@gmail.com
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;India
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+TEL;type=WORK;type=VOICE:+91 989 209 1943
+item1.ADR;type=WORK;type=pref:;;Marathon\nMulund\, 09-01;;;138577;India
+item1.X-ABADR:in
+item2.URL;type=pref:purvisphysio.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
+
